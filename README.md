@@ -1,6 +1,6 @@
-# Tech Erudite Practical
+# React Native Event App – Practical Assignment
 
-A React Native CLI application developed as part of the Tech Erudite practical assignment. The project follows a feature-based architecture with reusable components, custom hooks, API integration, TypeScript support, and scalable folder organization.
+A React Native CLI application developed as part of the React Native Event App – Practical Assignment. The project follows a feature-based architecture with reusable components, custom hooks, API integration, TypeScript support, and scalable folder organization.
 
 ---
 
@@ -88,7 +88,7 @@ npx react-native doctor
 
 ```bash
 git clone <repository-url>
-cd TECH_ERUDITE_PRACTICAL
+cd react-native-event-app-assignment
 ```
 
 ### Install Dependencies
@@ -256,4 +256,4 @@ LinkedIn: https://linkedin.com/in/jayeshmalam
 
 ## Assignment Submission
 
-This project was developed as part of the Tech Erudite React Native Practical Assignment using React Native CLI, TypeScript, reusable architecture patterns, and modular feature-based development practices.
+This project was developed as part of the React Native Event App – Practical Assignment using React Native CLI, TypeScript, reusable architecture patterns, and modular feature-based development practices.
